@@ -1,0 +1,11 @@
+.main_wrapper {
+  display: flex;
+  justify-content: center;
+  margin: 123px 0;
+}
+
+main {
+  background-color: hsl(0, 0%, 100%);
+  width: 736px;
+  min-height: 1707px;
+}

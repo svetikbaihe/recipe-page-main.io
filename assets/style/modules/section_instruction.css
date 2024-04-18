@@ -1,0 +1,9 @@
+ol li {
+  margin: 0 0 17px 23px;
+  padding-left: 13px;
+}
+
+ol li::marker {
+  color: var(--nutmeg);
+  text-shadow: 0 0 1px var(--nutmeg);
+}

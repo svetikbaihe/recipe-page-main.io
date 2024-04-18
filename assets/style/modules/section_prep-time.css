@@ -1,0 +1,16 @@
+h3 {
+  font-size: 1.25rem;
+  margin-bottom: 21px;
+  color: var(--dark-raspberry);
+  text-shadow: 0 0 0.5px var(--dark-raspberry);
+}
+
+.prep-time__inner-wrapper {
+  background-color: var(--rose-white);
+  padding: 30px 22px;
+}
+
+.prep-time__inner-wrapper li::marker {
+  color: var(--dark-raspberry);
+}
+

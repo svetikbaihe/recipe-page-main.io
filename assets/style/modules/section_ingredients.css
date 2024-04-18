@@ -1,0 +1,3 @@
+.ingredients__inner-wrapper li::marker {
+  color: var(--nutmeg);
+}

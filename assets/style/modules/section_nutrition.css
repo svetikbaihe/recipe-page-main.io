@@ -1,0 +1,26 @@
+.nutrition__inner-wrapper p {
+  margin-bottom: 19px;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+tr {
+  border-bottom: 1px solid var(--light-grey);
+}
+
+td {
+  padding: 15px 0 15px 30px;
+}
+
+table tr:last-child {
+  border: none;
+}
+
+.values {
+  padding-left: 90px;
+  color: var(--nutmeg);
+  text-shadow: 0 0 1px var(--nutmeg);
+}
